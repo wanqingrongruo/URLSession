@@ -3,5 +3,6 @@
     <pages>
         <page name='URLSessionConfiguration'/>
         <page name='URLSessionTask'/>
+        <page name='URLSessionDelegate'/>
     </pages>
 </playground>
